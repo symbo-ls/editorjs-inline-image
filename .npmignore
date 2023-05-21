@@ -1,5 +1,4 @@
 .idea/
-assets/
 test/
 .eslintrc.js
 babel.config.json
